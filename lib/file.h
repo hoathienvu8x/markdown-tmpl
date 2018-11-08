@@ -1,5 +1,5 @@
-#ifndef _FILE_H
-#define _FILE_H
+#ifndef _FILELS_H_ // This was just _FILE_H_, but that interfered with Cygwin
+#define _FILELS_H_
 
 struct file_data {
     int size;

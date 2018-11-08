@@ -1,5 +1,5 @@
-#ifndef _CACHE_H
-#define _CACHE_H
+#ifndef _WEBCACHE_H_
+#define _WEBCACHE_H_
 
 // Individual hash table entry
 struct cache_entry {

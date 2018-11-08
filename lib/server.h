@@ -1,5 +1,5 @@
-#ifndef _SERVER_H_
-#define _SERVER_H_
+#ifndef _WEBSERVER_H_
+#define _WEBSERVER_H_
 
 int send_response(int fd, char *header, char *content_type, void *body, int content_length);
 void get_d20(int fd);

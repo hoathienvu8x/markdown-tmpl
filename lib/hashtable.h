@@ -1,5 +1,5 @@
-#ifndef _HASHTABLE_H
-#define _HASHTABLE_H
+#ifndef _HASHTABLE_H_
+#define _HASHTABLE_H_
 
 struct hashtable {
     int size; // Read-only
